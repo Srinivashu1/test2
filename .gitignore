@@ -48,7 +48,11 @@ Vagrantfile
 #-------------------------
 # Temporary Files
 #-------------------------
-
+config/datebase.php
+/vendor/
+/public/
+/tests/
+/writable/
 
 
 writable/cache/*
