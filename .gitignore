@@ -50,6 +50,7 @@ Vagrantfile
 #-------------------------
 /vendor/
 /public/
+/writable/
 
 
 writable/cache/*
